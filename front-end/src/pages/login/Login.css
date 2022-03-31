@@ -1,0 +1,17 @@
+.formContainter{
+    position: fixed;
+    width: 500px;
+    height: 300px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: auto;
+}
+
+.logintitle{
+text-align: center;
+height: 80px;
+line-height: 80px;
+font-size: 30px;
+
+}
